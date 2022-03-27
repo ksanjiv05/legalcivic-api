@@ -15,7 +15,11 @@ app.get("/test", (req, res) => {
   return res.send("hii bro").end();
 });
 
+app.use(express.static(__dirname+'/legalcivic/build'));
 
+app.get("/",(req,res)=>{
+    res.sendFile(__dirname+"/legalcivic/build/index.html")
+})
 
 app.listen(3001, () => {
   console.log("server lesten on 4000");
