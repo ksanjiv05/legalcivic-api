@@ -72,7 +72,7 @@ function sendMail({
   transporter
     .sendMail({
       from: "pradeepmr411@gmail.com", // sender address
-      to: "kumarsanjiv0005@gmail.com", // list of receivers
+      to: "legalcivic@gmail.com", // list of receivers
       subject: "Legalcivic Query", // Subject line
       text: "Here is the query details!", // plain text body
       html: `

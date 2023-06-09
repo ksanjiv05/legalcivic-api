@@ -327,7 +327,7 @@ function Index() {
                     <i class="fas fa-calculator"></i>
                   </span>
                 </div>
-                <h5>GST Registration</h5>
+                <h5>GST Registration<br /> (499 INR)</h5>
               </div>
             </div>
             <div className="col-sm-6 col-lg-4 col-xl-3 py-3 wow zoomIn">
@@ -347,7 +347,7 @@ function Index() {
                     <i class="fas fa-square-root-alt"></i>
                   </span>
                 </div>
-                <h5>Income Tax Returns (ITR) filing</h5>
+                <h5>Income Tax Returns (ITR) filing<br/> (499 INR)</h5>
               </div>
             </div>
 
@@ -505,8 +505,7 @@ function Index() {
               </p>
               <p className="mb-0 text-secondary">
                 LegalCivic & Company
-                <br /> T-136/1, 2nd Floor, Baljit Nagar, Patel Nagar <br />
-                New Delhi – 110008
+                <br /> 914, Ninth Floor, Block-3, Dlf Capital Greens, Shivaji Marg, Moti Nagar,<br/> Delhi-110015
               </p>
             </div>
             <div className="col-lg-4 py-3">
@@ -544,7 +543,7 @@ function Index() {
               </p>
               <p className="mb-0">
                 <a href="#" className="text-secondary">
-                <i class="fas fa-envelope"></i>  support@legalcivic.com
+                <i class="fas fa-envelope"></i>  legalcivic@gmail.com
                 </a>
               </p>
               <p className="mb-0">
